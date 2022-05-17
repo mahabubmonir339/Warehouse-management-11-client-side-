@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/static/css/main.a617e044.chunk.css",
+    "main.js": "/static/js/main.a598444d.chunk.js",
+    "main.js.map": "/static/js/main.a598444d.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.9b1dac6b.js",
+    "runtime-main.js.map": "/static/js/runtime-main.9b1dac6b.js.map",
+    "static/css/2.0a9ec390.chunk.css": "/static/css/2.0a9ec390.chunk.css",
+    "static/js/2.5527f65e.chunk.js": "/static/js/2.5527f65e.chunk.js",
+    "static/js/2.5527f65e.chunk.js.map": "/static/js/2.5527f65e.chunk.js.map",
+    "static/js/3.2da0883e.chunk.js": "/static/js/3.2da0883e.chunk.js",
+    "static/js/3.2da0883e.chunk.js.map": "/static/js/3.2da0883e.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/2.0a9ec390.chunk.css.map": "/static/css/2.0a9ec390.chunk.css.map",
+    "static/css/main.a617e044.chunk.css.map": "/static/css/main.a617e044.chunk.css.map",
+    "static/js/2.5527f65e.chunk.js.LICENSE.txt": "/static/js/2.5527f65e.chunk.js.LICENSE.txt",
+    "static/media/404.26a99840.jpg": "/static/media/404.26a99840.jpg",
+    "static/media/about.0ddeb09b.jpg": "/static/media/about.0ddeb09b.jpg",
+    "static/media/bali.8b8f8743.jpg": "/static/media/bali.8b8f8743.jpg",
+    "static/media/dubai.3653def0.jpg": "/static/media/dubai.3653def0.jpg",
+    "static/media/logo.100aa7d4.png": "/static/media/logo.100aa7d4.png",
+    "static/media/saintMartin.a322be30.jpg": "/static/media/saintMartin.a322be30.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9b1dac6b.js",
+    "static/css/2.0a9ec390.chunk.css",
+    "static/js/2.5527f65e.chunk.js",
+    "static/css/main.a617e044.chunk.css",
+    "static/js/main.a598444d.chunk.js"
+  ]
+}
